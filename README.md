@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in work maybe?
-- 🌱 I’m currently learning python 
-- 📫 How to reach me devbryankurtz@gmail.com
+
+[![Blog](http://ForTheBadge.com/images/badges/made-with-python.svg)]()
 
 <!---
 bryankurtzdev/bryankurtzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
