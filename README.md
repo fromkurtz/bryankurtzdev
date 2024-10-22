@@ -18,5 +18,8 @@ Amo explorar o mundo dos algoritmos, resolver problemas complexos e mergulhar na
 Estou sempre em busca de novos conhecimentos e colaborando em projetos de código aberto.
 
 ---
+![Bryan Kurtz GitHub stats](https://github-readme-stats.vercel.app/api?username=bryankurtzdev&show_icons=true&theme=tokyonight)
+---
+
 
 [![Seguir](https://img.shields.io/github/followers/bryankurtzdev?style=for-the-badge&logo=github&label=Seguir)](https://github.com/bryankurtzdev)
