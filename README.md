@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Bryan
+# 👋 Bem-vindo ao meu GitHub!
 
-[![Blog](http://ForTheBadge.com/images/badges/made-with-python.svg)]()
+## Sobre mim  
+[![Programação](https://img.shields.io/badge/Programação-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white)](https://github.com/) 
+[![Hacking](https://img.shields.io/badge/Hacking-Etico-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/)  
+Sou um entusiasta de programação e hacking ético. Sempre buscando resolver problemas com código e explorar soluções criativas e seguras.
 
-<!---
-bryankurtzdev/bryankurtzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interesses  
+[![Algoritmos](https://img.shields.io/badge/Algoritmos-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/) 
+[![Literatura](https://img.shields.io/badge/Literatura-Leitura-yellow?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/)  
+Amo explorar o mundo dos algoritmos, resolver problemas complexos e mergulhar na leitura de literatura.
+
+## Habilidades  
+[![Python](https://img.shields.io/badge/Python-Intermediário-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Colaborações-lightgrey?style=for-the-badge&logo=github&logoColor=black)](https://github.com/)  
+[![Hacking Ético](https://img.shields.io/badge/Hacking-Ético-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/)
+
+## Sempre aprendendo 🚀  
+[![Sempre aprendendo](https://img.shields.io/badge/Sempre-Aprendendo-red?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/)  
+Estou sempre em busca de novos conhecimentos e colaborando em projetos de código aberto.
+
+---
+
+[![Seguir](https://img.shields.io/github/followers/bryankurtzdev?style=for-the-badge&logo=github&label=Seguir)](https://github.com/bryankurtzdev)
